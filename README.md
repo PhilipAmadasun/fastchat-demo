@@ -2,8 +2,8 @@
 
 ## Getting started
 - make sure you are in the PRP notebook and have open-ai 0.28.1 installed
-&nbsp&nbsp&nbsp&nbsp - go to the terminal in do `pip list | openai`
-&nbsp&nbsp&nbsp&nbsp - if nothing if returned, stop the server and make sure you have selected the PRP notebook
+    * go to the terminal in do `pip list | openai`
+    * if nothing if returned, stop the server and make sure you have selected the PRP notebook
 - git clone to workspace
 - create a env.yaml file
 - copy and paste template from env-template.yaml
