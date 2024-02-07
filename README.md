@@ -5,9 +5,9 @@
     * go to the terminal and enter `pip list | openai`
     * if nothing if returned, stop the server and make sure you have selected the "Stack PRP" Image from the list of container images
 - git clone this repo into your workspace
-- create a env.yaml file
-- copy and paste template from env-template.yaml
-- paste your API key into API key and the file name under file_name if not using paper.txt
+- create a `env.yaml` file
+- copy and paste template from `env-template.yaml`
+- paste your API key into API key and the file name under file_name if not using `paper.txt`
 
 ## Make Changes
 - to change the initial prompt for LLM, change `initial_prompt`
