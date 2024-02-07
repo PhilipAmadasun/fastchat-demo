@@ -1,10 +1,10 @@
 # fastchat-demo
 
 ## Getting started
-- make sure you are in the stack PRP image and have open-ai 0.28.1 installed
-    * go to the terminal in do `pip list | openai`
-    * if nothing if returned, stop the server and make sure you have selected the "stack PRP" Image from the list of container images
-- git clone to workspace
+- make sure you are in the Stack PRP image and have open-ai 0.28.1 installed
+    * go to the terminal and enter `pip list | openai`
+    * if nothing if returned, stop the server and make sure you have selected the "Stack PRP" Image from the list of container images
+- git clone this repo into your workspace
 - create a env.yaml file
 - copy and paste template from env-template.yaml
 - paste your API key into API key and the file name under file_name if not using paper.txt
