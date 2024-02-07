@@ -1,7 +1,7 @@
 # fastchat-demo
 
 ## Getting started
-- log into http://jupyterhub.sdsu.edu/ using your sdsu credentials [Here is a guide to do so](https://sdsu-research-ci.github.io/instructionalcluster/students/loggingin) and select your resources (minimal is fine) and select "Stack PRP" image
+- log into http://jupyterhub.sdsu.edu/ using your sdsu credentials, select your resources (minimal is fine) and select "Stack PRP" image. [Here is a guide for reference](https://sdsu-research-ci.github.io/instructionalcluster/students/loggingin)
 - make sure you have open-ai 0.28.1 installed
     * go to the terminal and enter `pip list | grep openai`
     * if nothing if returned, [stop the server](https://sdsu-research-ci.github.io/instructionalcluster/faqs/stopnotebook) and make sure you have selected the "Stack PRP" Image from the list of container images
