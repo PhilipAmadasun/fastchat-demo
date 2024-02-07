@@ -1,9 +1,9 @@
 # fastchat-demo
 
 ## Getting started
-- make sure you are in the PRP notebook and have open-ai 0.28.1 installed
+- make sure you are in the stack PRP image and have open-ai 0.28.1 installed
     * go to the terminal in do `pip list | openai`
-    * if nothing if returned, stop the server and make sure you have selected the PRP notebook
+    * if nothing if returned, stop the server and make sure you have selected the "stack PRP" Image from the list of container images
 - git clone to workspace
 - create a env.yaml file
 - copy and paste template from env-template.yaml
